@@ -1,0 +1,14 @@
+<application>
+  <component name="BitbucketCloudRegistry">
+    <lookup />
+  </component>
+  <component name="BitbucketServerRegistry">
+    <instances>
+      <instance uuid="3615f17e-7c9b-35b3-82b4-18355ddce72e" baseUri="https://bitbucket.gboteam.ru/" />
+    </instances>
+    <lookup>
+      <record scheme="ssh" hostname="bitbucket.gboteam.ru" port="7999" path="/" uuid="3615f17e-7c9b-35b3-82b4-18355ddce72e" />
+    </lookup>
+  </component>
+  <component name="Instance" id="a0763e39-7342-4f49-ad02-16b1005c6c05" version="2022.1.200" />
+</application>
