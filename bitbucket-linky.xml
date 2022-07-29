@@ -11,9 +11,4 @@
     </lookup>
   </component>
   <component name="Instance" id="a0763e39-7342-4f49-ad02-16b1005c6c05" version="2020.3.206" />
-  <component name="UsageLog">
-    <event name="OpenCommit" place="Vcs.Log.ContextMenu" timestamp="2022-07-29T09:29:54.469061411Z">
-      <attribute name="bitbucket">server</attribute>
-    </event>
-  </component>
 </application>
